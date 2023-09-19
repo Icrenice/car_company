@@ -1,0 +1,4 @@
+venv/
+*.pyc
+*.workspace
+*.code-workspace
